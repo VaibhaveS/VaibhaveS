@@ -30,13 +30,6 @@ Being an avid learner, I always try to keep myself updated with the latest techn
  </tr>
  </table>
 
-### Competitive Programming profiles
-- Codeforces: https://codeforces.com/profile/vai53
-- Leetcode: https://leetcode.com/IamMyself43/
-- Codechef: https://www.codechef.com/users/vai53
-- Hackerrank: https://www.hackerrank.com/SVAIBHAVE
-<hr>
-
 - 📫 **Reach** me here => https://www.linkedin.com/in/s-vaibhave-davey-a8798118b/
 
 
