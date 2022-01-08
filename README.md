@@ -6,10 +6,10 @@ I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore I
 My major interests include competitive programming, problem-solving, and web development.
 Being an avid learner, I always try to keep myself updated with the latest technologies in use.
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
+<!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" /> -->
 
 
-## 🚀 Skills
+<!-- ## 🚀 Skills
  Programming Lanuages
  <table>
  <tr>
@@ -28,11 +28,10 @@ Being an avid learner, I always try to keep myself updated with the latest techn
   <td align="center"><img src="https://simpleicons.org/icons/php.svg" width="45px" height="45px" /><br/><sub><b>PHP</b></sub></td>
   <td align="center"><img src="https://simpleicons.org/icons/mysql.svg" width="45px" height="45px" /><br/><sub><b>MySQL</b></sub></td>
  </tr>
- </table>
+ </table> -->
 
 - 📫 **Reach** me here => https://www.linkedin.com/in/s-vaibhave-davey-a8798118b/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhaveS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=VaibhaveS&count_private=true&show_icons=true)
+ ![Vaibhave's github stats](https://github-readme-stats.vercel.app/api?username=VaibhaveS&count_private=true&show_icons=true)        
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhaveS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
