@@ -2,9 +2,7 @@
 
 **ABOUT ME** 
 
-I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore Institute of Technology.
-My major interests include competitive programming, problem-solving, and web development.
-Being an avid learner, I always try to keep myself updated with the latest technologies in use.
+I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore Institute of Technology. My major interests include competitive programming, problem-solving, and web development.
 
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" /> -->
 
@@ -30,7 +28,7 @@ Being an avid learner, I always try to keep myself updated with the latest techn
  </tr>
  </table> -->
 
-- 📫 **Reach** me here => https://www.linkedin.com/in/s-vaibhave-davey-a8798118b/
+📫 **Reach** me here => https://www.linkedin.com/in/s-vaibhave-davey-a8798118b/
 
 
  ![Vaibhave's github stats](https://github-readme-stats.vercel.app/api?username=VaibhaveS&count_private=true&show_icons=true)        
