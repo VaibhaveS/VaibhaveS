@@ -32,4 +32,5 @@ I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore I
 
 
  ![Vaibhave's github stats](https://github-readme-stats.vercel.app/api?username=VaibhaveS&count_private=true&show_icons=true)        
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VaibhaveS.VaibhaveS)
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhaveS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
