@@ -28,7 +28,7 @@ I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore I
  </tr>
  </table> -->
 
-📫 **Reach** me here => https://www.linkedin.com/in/s-vaibhave-davey-a8798118b/
+📫 **Reach** me here => https://www.linkedin.com/in/s-vaibhave-davey
 
 
 <!--  ![Vaibhave's github stats](https://github-readme-stats.vercel.app/api?username=VaibhaveS&count_private=true&show_icons=true)        
